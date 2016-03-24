@@ -1,7 +1,3 @@
-// Name: Samana Shrestha
-// Course: CS 102
-// Assignment 4 PART II
-// Date: 28th October 2015
 /* CODE DESCRIPTION:
  * FibonacciNumbers is a program that uses array list to display the 
  * Fibonacci sequence for a number entered by the user. 
